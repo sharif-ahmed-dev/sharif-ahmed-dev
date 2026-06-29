@@ -11,4 +11,4 @@ Computer Science & Engineering Student |Competitive Programmer | Flutter & Dart 
   <br>
   Portfolio website: <a href="https://sharif-devx.github.io/portfolio">portfolio</a>
   <br>
-  To know more: contact me in <a href="www.linkedin.com/in/sharif-dev">Linkedin</a></h3>
+  To know more: contact me in <a href="https://www.linkedin.com/in/sharif-dev">Linkedin</a></h3>
