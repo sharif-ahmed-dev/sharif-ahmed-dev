@@ -9,6 +9,6 @@ Computer Science & Engineering Student |Competitive Programmer | Flutter & Dart 
 
 <h3 align="center">
   <br>
-  Portfolio website: <a href="https://sharif-ahmed-dev.github.io/Portfolio">here</a>
+  Portfolio website: <a href="https://sharif-ahmed-dev.github.io/Portfolio" target = "_blank">here</a>
   <br>
-  To know more: contact me in <a href="https://www.linkedin.com/in/sharifahmeddev">Linkedin</a></h3>
+  To know more: contact me in <a href="https://www.linkedin.com/in/sharifahmeddev" target = "_blank">Linkedin</a></h3>
