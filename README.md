@@ -1,3 +1,8 @@
+![](https://komarev.com/ghpvc/?username=sharifahmedd&color=blue)
+
+[![GitHub followers](https://img.shields.io/github/followers/sharifahmedd?style=social)](https://github.com/sharifahmedd)
+[![GitHub stars](https://img.shields.io/github/stars/sharifahmedd?affiliations=OWNER&style=social)](https://github.com/sharifahmedd)
+
 # Hi there, I'm Sharif Ahmed 👋
 
 ## 💻 About Me
@@ -12,7 +17,7 @@ I'm currently learning:
 - 💾 Firebase
 - 🌐 Git & GitHub
 
-I enjoy building beginner-friendly projects to improve my programming skills and document my learning journey.
+I enjoy building projects, learning new technologies, and sharing my development journey on GitHub.
 
 ---
 
@@ -35,20 +40,23 @@ I enjoy building beginner-friendly projects to improve my programming skills and
 
 ## 📂 Featured Projects
 
-- 🎓 Student Information Manager CLI
+- 🎓 Student Information Manager CLI Project
 - 📊 Student Report Generator
-- 💼 Expense Tracker CLI App
+- 💰 Expense Tracker CLI App
 - 📚 Student Management Mini Project
-
-More projects are available in my repositories.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
-![Sharif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharifahmedd&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharifahmedd&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifahmedd&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharifahmedd&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sharifahmedd&theme=tokyonight&hide_border=false" />
+</p>
 
 ---
 
@@ -69,4 +77,4 @@ More projects are available in my repositories.
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I continue learning and building with Flutter.
