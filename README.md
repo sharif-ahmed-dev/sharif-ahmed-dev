@@ -3,73 +3,37 @@
 [![GitHub followers](https://img.shields.io/github/followers/sharifahmedd?style=social)](https://github.com/sharifahmedd)
 [![GitHub stars](https://img.shields.io/github/stars/sharifahmedd?affiliations=OWNER&style=social)](https://github.com/sharifahmedd)
 
-# Hi there, I'm Sharif Ahmed 👋
 
-## 💻 About Me
+# Hi, I'm Sharif Ahmed 👋
 
-I'm a Computer Science student and an aspiring Flutter Developer from Bangladesh.
+Computer Science student from Bangladesh with an interest in Flutter and mobile application development.
 
-I'm currently learning:
+## About Me
 
-- 📱 Flutter
-- 🎯 Dart
-- 🧩 Object-Oriented Programming (OOP)
-- 💾 Firebase
-- 🌐 Git & GitHub
+- 🌱 Currently learning Flutter and Dart
+- 💻 Building small projects to improve my programming skills
+- 📚 Interested in Object-Oriented Programming and software development
 
-I enjoy building projects, learning new technologies, and sharing my development journey on GitHub.
-
----
-
-## 🚀 Current Focus
-
-- Building Flutter applications
-- Strengthening Dart programming skills
-- Learning Object-Oriented Programming (OOP)
-- Creating beginner-friendly projects
-
----
-
-## 🛠️ Technologies & Tools
+## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,git,github,vscode,androidstudio" />
 </p>
 
----
+## Projects
 
-## 📂 Featured Projects
+- Expense Tracker CLI App
+- Student Information Manager CLI Project
+- Student Report Generator
+- Student Management Mini Project
 
-- 🎓 Student Information Manager CLI Project
-- 📊 Student Report Generator
-- 💰 Expense Tracker CLI App
-- 📚 Student Management Mini Project
-
----
-
-## 📈 GitHub Statistics
+## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sharifahmedd&theme=github-dark-blue&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=sharifahmedd&theme=github-dark" />
 </p>
 
----
-
-## 🌱 Currently Learning
-
-- Flutter
-- Dart
-- Object-Oriented Programming (OOP)
-- Git & GitHub
-- Building Command-Line and Flutter Applications
-
----
-
-## 📫 Connect With Me
+## Connect
 
 - GitHub: https://github.com/sharifahmedd
-- LinkedIn: https://www.linkedin.com/in/sharifahmedd
-
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I continue learning and building with Flutter.
+- LinkedIn: *(Add your LinkedIn profile)*
