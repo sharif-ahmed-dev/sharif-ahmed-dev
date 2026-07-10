@@ -24,9 +24,9 @@ I enjoy building projects, learning new technologies, and sharing my development
 ## 🚀 Current Focus
 
 - Building Flutter applications
-- Improving problem-solving skills
-- Learning clean code practices
-- Exploring mobile app development
+- Strengthening Dart programming skills
+- Learning Object-Oriented Programming (OOP)
+- Creating beginner-friendly projects
 
 ---
 
@@ -50,12 +50,7 @@ I enjoy building projects, learning new technologies, and sharing my development
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharifahmedd&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifahmedd&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sharifahmedd&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=sharifahmedd&theme=github-dark-blue&hide_border=false" />
 </p>
 
 ---
@@ -63,17 +58,17 @@ I enjoy building projects, learning new technologies, and sharing my development
 ## 🌱 Currently Learning
 
 - Flutter
-- State Management
-- REST APIs
-- Firebase
-- Clean Architecture
+- Dart
+- Object-Oriented Programming (OOP)
+- Git & GitHub
+- Building Command-Line and Flutter Applications
 
 ---
 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/sharifahmedd
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/sharifahmedd
 
 ---
 
