@@ -36,4 +36,4 @@ Computer Science student from Bangladesh with an interest in Flutter and mobile 
 ## Connect
 
 - GitHub: https://github.com/sharifahmedd
-- LinkedIn: *(Add your LinkedIn profile)*
+- LinkedIn: https://www.linkedin.com/in/sharifahmedd
